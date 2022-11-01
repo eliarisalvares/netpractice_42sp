@@ -54,6 +54,10 @@ exemplo:
 
 > ibase=2;obase=A;"número"
 
+ou
+
+> ibase=2;obase=10;"número"
+
 exemplo:
 
 ![Captura de Tela 2022-11-01 às 17 17 32](https://user-images.githubusercontent.com/85964972/199332745-fed13694-1322-490a-9662-4acc534869f0.png)
